@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore IDE-specific files and folders
+nbproject/private/
+.idea/
+.vscode/
+out/
+bin/
+build/
+dist/
